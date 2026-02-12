@@ -1,10 +1,9 @@
 ---
 name: narrative-control
-description: Shape how events are understood before others can frame them. Write your
-  own history before your enemies write it for you.
+description: Shape how events are understood before others can frame them. Write your own history before your enemies write it for you.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - narrative-control
